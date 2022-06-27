@@ -20,15 +20,6 @@
   </url>
   
   <url>
-    <loc>http://example.com/2022/05/30/%E3%80%90HOHO%E7%9A%84%E8%AE%BA%E6%96%87%E7%B2%BE%E8%AF%BB%E7%AC%94%E8%AE%B0%E3%80%91A-Review-of-Generalizable-Transfer-Learning-in-Automatic-Emotion-Recognition/</loc>
-    
-    <lastmod>2022-05-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://example.com/2022/01/15/%E3%80%90HOHO%E7%9A%84%E5%89%A7%E5%9C%BA%E6%89%8B%E8%AE%B0%E3%80%91Hadestown%EF%BC%9A%E5%90%8D%E4%B8%BA%E5%86%A5%E7%95%8C%E7%9A%84%E5%A4%A9%E5%A0%82/</loc>
     
     <lastmod>2022-01-15</lastmod>
@@ -321,20 +312,6 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2022-06-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/%E8%AE%BA%E6%96%87%E7%B2%BE%E8%AF%BB/</loc>
-    <lastmod>2022-06-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://example.com/tags/%E6%AD%8C%E8%AF%8D/</loc>
     <lastmod>2022-06-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -408,13 +385,6 @@
   
   <url>
     <loc>http://example.com/categories/HOHO%E7%9A%84%E8%AF%AD%E6%96%99%E5%BA%93/</loc>
-    <lastmod>2022-06-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/categories/hoho%E7%9A%84%E8%AE%BA%E6%96%87%E7%B2%BE%E8%AF%BB%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2022-06-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
